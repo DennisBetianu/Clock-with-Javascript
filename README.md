@@ -14,5 +14,5 @@ Linguaggi di Programmazione utilizzati:
 - Sfondo che ricrea una camera da letto
 
 
-## Prova anche tu! ##
+## Prova anche tu! 👇 ##
 https://htmlpreview.github.io/?https://github.com/DennisBetianu/Clock-with-Javascript/blob/main/index.html
