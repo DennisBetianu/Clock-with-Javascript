@@ -11,14 +11,16 @@
     
     height: 40px;
     width: 200px;
+ 
+    font-size: 40px;
 
     display: flex;
     align-items: center;
     justify-content: center;
 
     position: relative;
-    top: 38vh;
-    left: 720px;
+    top: 42vh;
+    left: 838px;
 
     transform: rotate(-0.003turn)
  }
