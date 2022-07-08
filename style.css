@@ -1,0 +1,36 @@
+ html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+ }
+ 
+.center {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    
+    height: 40px;
+    width: 200px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+    top: 38vh;
+    left: 720px;
+
+    transform: rotate(-0.003turn)
+ }
+
+
+
+
+.img_size{
+    background-image: url("./img/gabriel-beaudry-WuQME0I_oZA-unsplash.jpg");
+    height: 100%;
+
+    background-size: cover;
+ background-repeat: no-repeat;
+    
+}
