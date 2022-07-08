@@ -1,6 +1,6 @@
 # Clock-with-Javascript 🕑
 
-Mini progetto di un orologio digitale
+Mini progetto di un orologio digitale.
 
 Linguaggi di Programmazione utilizzati:
 - HTML5
