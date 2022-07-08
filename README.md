@@ -1,4 +1,4 @@
-# Clock-with-Javascript 🕕
+# Clock-with-Javascript 🕑
 
 Mini progetto di un orologio digitale
 
